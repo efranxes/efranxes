@@ -1,7 +1,8 @@
 ### Hey bestie 👋   I'm Ella
 
-- 🍄 I’m currently working on a 2D platformer game
-- 🌱 I’m currently learning HTML, CSS, JavaScript
+- 🍄 I’m currently working on a 2D game about bugs, gardening and climate change
+- 🌱 I’m currently learning HTML, CSS & JavaScript with Leeds Trinity University...
+- 🌱 ...and Blender and Unity on Youtube
 
 <!--
 - 👯 I’m looking to collaborate on ...
