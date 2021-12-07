@@ -2,7 +2,7 @@
 
 - 🍄 I’m currently working on a 2D game about bugs and climate change
 - 🌱 I’m currently learning HTML, CSS & JavaScript with Leeds Trinity University...
-- 🌱 ...and Blender and Unity on Youtube
+- 🎨 ...and Blender and Unity on Youtube
 
 <!--
 - 👯 I’m looking to collaborate on ...
